@@ -22,3 +22,31 @@ To https://github.com/li15145943755-create/ceshidocker.git
 
 branch 'main' set up to track 'origin/main'.
 
+
+
+\# ceshidocker
+
+
+
+这是一个用于练习 Docker、Git 和 GitHub 分支工作流的测试项目。
+
+
+
+\## 项目文件
+
+
+
+\- app.py：Python 应用入口
+
+\- Dockerfile：Docker 镜像构建文件
+
+\- requirements.txt：Python 依赖文件
+
+
+
+\## Git 工作流
+
+
+
+实际开发中不要直接修改 main 分支，而是创建 feature 分支进行开发。
+
